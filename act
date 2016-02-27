@@ -1,0 +1,4 @@
+#/bin/sh
+source myvenv/bin/activate
+echo Wonder Twin Powers Activate!
+open wtp.jpg
